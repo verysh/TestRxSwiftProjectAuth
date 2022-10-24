@@ -8,7 +8,7 @@ The application uses `node.js` as backend REST client which is running at `http:
 Make sure you have `node.js` and `npm` installed.
 
 1. `git clone https://github.com/verysh/TestRxSwiftProjectAuth.git`
-2. `cd TestRxSwiftProjectAuth/server`
+2. `cd TestRxSwiftProjectAuth`
 3. `npm update`
 4. `node server.js`
 
