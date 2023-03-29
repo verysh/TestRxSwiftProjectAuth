@@ -1,4 +1,4 @@
-# Authorization simulation
+
 
 This project shows my practice usage of MVVM and RxSwift.
 
